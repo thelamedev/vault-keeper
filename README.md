@@ -16,7 +16,7 @@ VaultKeeper is a simple yet secure secrets management server written in Go. It p
 
 **Getting Started**
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/vaultkeeper`
+1. **Clone the Repository:** `git clone https://github.com/thelamedev/vault-keeper`
 2. **Install Dependencies:** `go mod tidy`
 3. **Run the Server:** `go run main.go`
 4. **Access the API:** Use a tool like Postman or curl to interact with the API endpoints.
